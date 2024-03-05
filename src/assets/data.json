@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Photo Card 1",
+      "imageUrl": "https://picsum.photos/id/11/200/300",
+      "price": 30
+    },
+    {
+      "id": 2,
+      "name": "Photo Card 2",
+      "imageUrl": "https://picsum.photos/id/12/200/300",
+      "price": 25
+    },
+    {
+      "id": 3,
+      "name": "Photo Card 3",
+      "imageUrl": "https://picsum.photos/id/13/200/300",
+      "price": 35
+    }
+  ]

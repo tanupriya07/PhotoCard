@@ -1,0 +1,27 @@
+h1{
+    border-bottom-style: solid;
+    border-color: black;
+    padding: 20px;
+}
+
+.photocard_display{
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.photocards{
+    margin: 20px;
+}
+
+.photobody {
+    display: flex;
+    flex-direction: row;
+}
+
+.shopping_cart{
+    border-left-style: solid;
+    border-color: black;
+    padding-left: 30px;
+}

@@ -1,0 +1,6 @@
+<h3>Shopping cart</h3>
+<div class="cartItems" *ngFor="let card of cartItems">
+    <p>{{card.name}}</p>
+    <p>{{card.price}}</p>
+</div>
+<p *ngIf="getTotalPrice() > 0"><b>Total Price: </b>{{totalPrice}}</p>

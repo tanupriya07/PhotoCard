@@ -1,0 +1,8 @@
+<div class="photocard_listing">
+    <img [src]="photocard.imageUrl" [alt]="photocard.name">
+    <div class="photocard_details">
+        <p>{{ photocard.name }}</p>
+        <p>{{ photocard.price }}</p>
+    </div>
+    <button (click)="addtocart(photocard)">Add to Cart</button>
+</div>

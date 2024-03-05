@@ -1,0 +1,11 @@
+.cartItems{
+    border-color: black;
+    border: solid;
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    justify-content: space-between;
+    padding: 0px 20px 0px 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}

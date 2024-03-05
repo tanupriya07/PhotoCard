@@ -1,0 +1,25 @@
+img {
+    border-radius: 10%;
+}
+
+.photocard_details {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    padding: auto;
+}
+
+.photocard_listing {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+
+button {
+    border-radius: 12px;
+    background-color: black;
+    color: white;
+    border: black;
+    padding: 10px;
+}
